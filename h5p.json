@@ -1,0 +1,13 @@
+{
+  "title": "H5P iframe embed example",
+  "language": "en",
+  "mainLibrary": "H5P.IFrameEmbed",
+  "embedTypes":["div"],
+  "author": "PhET Interactive Simulations. University of Colorado",
+  "preloadedDependencies": [{
+    "machineName":"H5P.IFrameEmbed",
+    "majorVersion":"1",
+    "minorVersion":"0"
+  }],
+  "license": "cc-by"
+}
