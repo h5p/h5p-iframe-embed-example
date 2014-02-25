@@ -1,6 +1,6 @@
 {
-  "width": "100%",
-  "height": "auto",
-  "minHeight": "400px",
+  "width": "600px",
+  "height": "450px",
+  "minWidth": "400px",
   "source": "phet.html"
 }
